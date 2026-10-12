@@ -1,7 +1,7 @@
-# Velox-Vis
+# Floris Technis
 Tailor every aspect of your visualization environment with our extensive customization options and adaptive design system.
 
-# Web2App by Velox Vis
+# Web2App by Floris Technis
 
 Web2App is a beginner-friendly project developed by Velox Vis, designed to provide a simple and efficient way to convert web applications into mobile apps. This project aims to streamline the process, making it accessible for developers of all skill levels to transform their web projects into fully functional applications.
 
